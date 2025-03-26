@@ -1,0 +1,6 @@
+@Contatos.UpdateConsumer_HostAddress = http://localhost:5032
+
+GET {{Contatos.UpdateConsumer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
